@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RedSec/.github/main/assets/redsec-logo.png" width="120" alt="RedSec Logo" />
-</p>
-
 <h1 align="center">RedSec</h1>
 
 <p align="center">
